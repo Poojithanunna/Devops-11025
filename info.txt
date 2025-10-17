@@ -4,3 +4,4 @@ AWS
 Devops
 Python
 Linux
+I am working in TCS for 9 years and became Team lead in 2024
