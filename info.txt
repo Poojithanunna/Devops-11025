@@ -1,6 +1,2 @@
 Poojitha Bodala
 Bangalore
-Devops
-AWS
-PYTHON
-LINUX
